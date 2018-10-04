@@ -1,2 +1,0 @@
-# SampleProject
-training devops
